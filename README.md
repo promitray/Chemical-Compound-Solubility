@@ -1,2 +1,2 @@
 # Chemical-Compound-Solubility
-A tutorial followed and experimented with to predict solubilities of compounds
+A simple worflow implemented to predict and experiment with solubilities of compounds
